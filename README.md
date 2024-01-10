@@ -22,7 +22,7 @@ This repository contains the source code for my portfolio website. The website i
 
 ## Deployment
 
-The website is deployed using GitHub Pages. You can access the live version [here](https://jahnavi-anand.github.io).
+The website is deployed using GitHub Pages. You can access the live version [here](https://jahnavi-anand.github.io/PORTFOLIO/).
 
 ## Usage
 
