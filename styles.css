@@ -101,7 +101,7 @@ nav ul li a:hover:after{
 }
 
 .about-col-1{
-    flex-basis: 35%;
+    flex-basis: 37%;
 }
 .about-col-1 img{
     width: 100%;
@@ -388,6 +388,7 @@ nav .fa-solid{
     .about-col-1, .about-col-2{
         flex-basis: 100%;
         text-align: justify;
+        padding-top: 10px;
     }
     .tab-links{
         font-size: 16px;
